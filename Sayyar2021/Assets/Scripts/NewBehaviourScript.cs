@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
 {
+    private Rigidbody player;
     // Start is called before the first frame update
     void Start()
     {
-        
     }
 
     // Update is called once per frame
